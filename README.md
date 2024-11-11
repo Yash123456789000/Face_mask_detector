@@ -12,8 +12,6 @@ A deep learning project that detects face mask compliance in real-time video str
 - [Usage](#usage)
 - [Technical Details](#technical-details)
 - [Results](#results)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
